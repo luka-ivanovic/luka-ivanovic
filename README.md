@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack (so far)
-- **Languages**:Python, Java, LaTeX 
+- **Languages**: Python, Java, LaTeX 
 - **Tools & Platforms**: Git, Linux, JetBrains 
 - **Areas of Interest**: Algorithms, Data Structures, Software Engineering,
 
