@@ -9,7 +9,7 @@
 
 
 ###  -> Tech Stack (so far)
-- **Languages**: Python, Java, LaTeX 
+- **Languages**: Python, Java, C, LaTeX 
 - **Tools & Platforms**: Git, Linux, JetBrains
 
 ---
