@@ -9,8 +9,9 @@
 
 
 ###  -> Tech Stack (so far)
-- **Languages**: Python, Java, C, LaTeX 
-- **Tools & Platforms**: Git, Linux, JetBrains
+- **Programming Languages**: Python, Java, C, JavaScript  
+- **Web Technologies**: HTML, CSS  
+- **Tools & Platforms**: Git, Linux, JetBrains IDEs
 
 ---
 
