@@ -12,6 +12,7 @@
 - **Programming Languages**: Python, Java, C, JavaScript  
 - **Web Technologies**: HTML, CSS  
 - **Tools & Platforms**: Git, Linux, JetBrains IDEs
+- **Databases**: SQL, PostgreSQL
 
 ---
 
