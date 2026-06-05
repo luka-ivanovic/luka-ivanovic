@@ -32,4 +32,4 @@
 - Low-level software analysis and debugging  
 - Digital forensics and memory analysis  
 - Operating system internals  
-- Capture The Flag (CTF) challenges  
+- CTF challenges  
