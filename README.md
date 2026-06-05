@@ -17,11 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,javascript,html,css)](https://skillicons.dev)
 
 
-**Learning**
-
-[![Learning](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-
 **Tools & Platforms**
 
 [![Learning](https://skillicons.dev/icons?i=git,linux,idea,clion,pycharm)](https://skillicons.dev)
