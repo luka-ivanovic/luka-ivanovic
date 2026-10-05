@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&vCenter=true&repeat=false&width=435&height=23&lines=>Interests)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&multiline=true&repeat=false&width=435&height=110&lines=-+Reverse+Engineering;-+Binary+Analysis;-+CTFs;-+Math)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&vCenter=true&multiline=true&repeat=false&width=435&height=110&lines=-+Reverse+Engineering;-+Binary+Analysis;-+CTFs;-+Cryptography)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=23&lines=>Skills)](https://git.io/typing-svg)
 
