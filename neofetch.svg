@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="760" height="449" viewBox="0 0 760 449">
+<!-- ZmxhZ3t5MHVfcjM0ZF90aDNfc3ZnX3MwdXJjM30= -->
+<defs>
+<filter id="glow" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#ffffff" opacity="0.025"/></pattern>
+</defs>
+<style>
+text{font-family:'Fira Code','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace;font-size:14px;white-space:pre}
+
+.l{opacity:0;animation:in .25s ease-out forwards}
+.ch{opacity:0;animation:show 0s linear forwards}
+@keyframes show{to{opacity:1}}
+.cmd1{animation:type 0.9s steps(8) .4s forwards}
+.cmd2{animation:type 0.01s steps(1) 0s forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes type{to{transform:translateX(71.2px)}}
+@keyframes blink{50%{opacity:0}}
+
+</style>
+<rect width="760" height="449" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h740a10 10 0 0 1 10 10v24h-760z" fill="#161b22"/>
+<circle cx="20" cy="17.0" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="17.0" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="17.0" r="6" fill="#27c93f"/>
+<text x="380.0" y="22.0" text-anchor="middle" fill="#6e7681" style="font-size:12px">luka@localhost: ~</text>
+<text x="22" y="62"><tspan fill="#3fb950">luka@localhost</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9"><tspan class="ch" style="animation-delay:0.40s">n</tspan><tspan class="ch" style="animation-delay:0.51s">e</tspan><tspan class="ch" style="animation-delay:0.62s">o</tspan><tspan class="ch" style="animation-delay:0.73s">f</tspan><tspan class="ch" style="animation-delay:0.84s">e</tspan><tspan class="ch" style="animation-delay:0.95s">t</tspan><tspan class="ch" style="animation-delay:1.06s">c</tspan><tspan class="ch" style="animation-delay:1.17s">h</tspan></tspan></text>
+<g class="l" style="animation-delay:1.50s"><text x="22" y="100" fill="#39c5cf" filter="url(#glow)">  \\              //</text></g>
+<g class="l" style="animation-delay:1.59s"><text x="22" y="119" fill="#39c5cf" filter="url(#glow)">   \\.__________.//</text></g>
+<g class="l" style="animation-delay:1.68s"><text x="22" y="138" fill="#39c5cf" filter="url(#glow)">   /  ___    ___  \ </text></g>
+<g class="l" style="animation-delay:1.77s"><text x="22" y="157" fill="#39c5cf" filter="url(#glow)">  |  / _ \  / _ \  |</text></g>
+<g class="l" style="animation-delay:1.86s"><text x="22" y="176" fill="#39c5cf" filter="url(#glow)">  | | (<tspan fill="#f0883e" filter="url(#glow)">@</tspan>) || (<tspan fill="#f0883e" filter="url(#glow)">@</tspan>) | |</text></g>
+<g class="l" style="animation-delay:1.95s"><text x="22" y="195" fill="#39c5cf" filter="url(#glow)">  |  \___/  \___/  |</text></g>
+<g class="l" style="animation-delay:2.04s"><text x="22" y="214" fill="#39c5cf" filter="url(#glow)">  |       \/       |</text></g>
+<g class="l" style="animation-delay:2.13s"><text x="22" y="233" fill="#39c5cf" filter="url(#glow)">   \   .  ''  .   / </text></g>
+<g class="l" style="animation-delay:2.22s"><text x="22" y="252" fill="#39c5cf" filter="url(#glow)">   /\ :.:.:.:.:. /\ </text></g>
+<g class="l" style="animation-delay:2.31s"><text x="22" y="271" fill="#39c5cf" filter="url(#glow)">  /  \:.:.:.:.:./  \ </text></g>
+<g class="l" style="animation-delay:2.40s"><text x="22" y="290" fill="#39c5cf" filter="url(#glow)"> |    |:.:.:.:.|    |</text></g>
+<g class="l" style="animation-delay:2.49s"><text x="22" y="309" fill="#39c5cf" filter="url(#glow)"> |    |.:.:.:.:|    |</text></g>
+<g class="l" style="animation-delay:2.58s"><text x="22" y="328" fill="#39c5cf" filter="url(#glow)">  \   |:.:.:.:.|   / </text></g>
+<g class="l" style="animation-delay:2.67s"><text x="22" y="347" fill="#39c5cf" filter="url(#glow)">   \__|.:.:.:.:|__/ </text></g>
+<g class="l" style="animation-delay:2.76s"><text x="22" y="366" fill="#39c5cf" filter="url(#glow)">      |__|__|__|    </text></g>
+<g class="l" style="animation-delay:2.85s"><text x="22" y="385" fill="#39c5cf" filter="url(#glow)">      ^^  ^^  ^^    </text></g>
+<g class="l" style="animation-delay:1.68s"><text x="230" y="100"><tspan fill="#39c5cf" font-weight="bold">luka</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39c5cf" font-weight="bold">localhost</tspan></text></g>
+<g class="l" style="animation-delay:1.77s"><text x="230" y="119" fill="#6e7681">--------------</text></g>
+<g class="l" style="animation-delay:1.86s"><text x="230" y="138" fill="#bc8cff" font-weight="bold">Uni:</text><text x="292" y="138" fill="#c9d1d9">TU Wien, Computer Science (BSc)</text></g>
+<g class="l" style="animation-delay:1.95s"><text x="230" y="157" fill="#bc8cff" font-weight="bold">Focus:</text><text x="292" y="157" fill="#c9d1d9">Reverse Engineering, Binary Analysis</text></g>
+<g class="l" style="animation-delay:2.04s"><text x="230" y="176" fill="#bc8cff" font-weight="bold">Also:</text><text x="292" y="176" fill="#c9d1d9">Cryptography, CTFs</text></g>
+<g class="l" style="animation-delay:2.13s"><text x="230" y="195" fill="#bc8cff" font-weight="bold">Langs:</text><text x="292" y="195" fill="#c9d1d9">C, Python, Java</text></g>
+<g class="l" style="animation-delay:2.22s"><text x="230" y="214" fill="#bc8cff" font-weight="bold">Tools:</text><text x="292" y="214" fill="#c9d1d9">IDA, GDB (Pwndbg), x64dbg</text></g>
+<g class="l" style="animation-delay:2.31s"><text x="230" y="233" fill="#bc8cff" font-weight="bold">Now:</text><text x="292" y="233" fill="#c9d1d9">Cryptopals</text></g>
+<g class="l" style="animation-delay:2.40s"><text x="230" y="252" fill="#bc8cff" font-weight="bold">Web:</text><text x="292" y="252" fill="#c9d1d9">lukaivanovic.dev</text></g>
+<g class="l" style="animation-delay:2.58s"><text x="230" y="290" fill="#bc8cff" font-weight="bold">PGP:</text><text x="292" y="290" fill="#c9d1d9">8379 6C22 2805 55D2 07C9</text></g>
+<g class="l" style="animation-delay:2.67s"><text x="292" y="309" fill="#c9d1d9">D706 5D03 3BBB 6142 1DD9</text></g>
+<g class="l" style="animation-delay:2.85s"><rect x="230" y="334" width="24" height="16" fill="#484f58"/><rect x="256" y="334" width="24" height="16" fill="#ff7b72"/><rect x="282" y="334" width="24" height="16" fill="#3fb950"/><rect x="308" y="334" width="24" height="16" fill="#d29922"/><rect x="334" y="334" width="24" height="16" fill="#58a6ff"/><rect x="360" y="334" width="24" height="16" fill="#bc8cff"/><rect x="386" y="334" width="24" height="16" fill="#39c5cf"/><rect x="412" y="334" width="24" height="16" fill="#c9d1d9"/></g>
+<g class="l" style="animation-delay:3.12s"><text x="22" y="423"><tspan fill="#3fb950">luka@localhost</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan class="cur" fill="#c9d1d9">█</tspan></text></g>
+<rect width="760" height="449" rx="10" fill="url(#scan)" pointer-events="none"/>
+</svg>
