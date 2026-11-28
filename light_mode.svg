@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="602" viewBox="0 0 790 602" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14px">
+<style>
+.art{fill:#24292f} .key{fill:#953800} .val{fill:#0a3069}
+.txt{fill:#24292f} .dim{fill:#8c959f}
+text,tspan{white-space:pre}
+</style>
+<rect x="0.5" y="0.5" width="789" height="601" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text class="art" x="22" y="40" xml:space="preserve">
+<tspan x="22" y="40"> </tspan>
+<tspan x="22" y="58">                   mNmmmdmdddhh</tspan>
+<tspan x="22" y="76">                NmNNmmhhhhhhhdhhyy</tspan>
+<tspan x="22" y="94">               NmNmdysyssysssshyyyy</tspan>
+<tspan x="22" y="112">             NmNNhyssys    ssssysysss</tspan>
+<tspan x="22" y="130">            NmNhyyss          ssysysss</tspan>
+<tspan x="22" y="148">            NNdyss              syssoo</tspan>
+<tspan x="22" y="166">           Nmmysy                yysooo</tspan>
+<tspan x="22" y="184">           mmhyy                  yyso+</tspan>
+<tspan x="22" y="202">          mmmhsy                  sys+++</tspan>
+<tspan x="22" y="220">          dmmyys                  yss+++</tspan>
+<tspan x="22" y="238">          mddhyy                  sys++/</tspan>
+<tspan x="22" y="256">          dmdyys                  yss/++</tspan>
+<tspan x="22" y="274">       Nmmmddssdddhhdhhhhhyhyyyyysyy/+/ssoo</tspan>
+<tspan x="22" y="292">      Nmmddmdddddhdhhhhhyhhyyyyyyyssyssoss+/</tspan>
+<tspan x="22" y="310">      mmhhhhhyhyyhyysyysssssssoosooooo+o++/:</tspan>
+<tspan x="22" y="328">      dddhhyhhyyyyyyyssyoosssosooooo+oo+++//</tspan>
+<tspan x="22" y="346">      mdhhhhyyhyysyyso++o+ooosooooo+o++o++::</tspan>
+<tspan x="22" y="364">      ddyhhyhyyyyysso++    oossoo+oo++++++::</tspan>
+<tspan x="22" y="382">      ddhyyhyyyyysysoo      ssoooo++o++/++::</tspan>
+<tspan x="22" y="400">      ddyhyyyyysyyssoo      ss+oo+o+++++//::</tspan>
+<tspan x="22" y="418">      hdhyyyyyyyssyssos    yyso++o+++++/+/::</tspan>
+<tspan x="22" y="436">      dhyhyysyysysssss++  ssyo+o+++++/++//-:</tspan>
+<tspan x="22" y="454">      hdyyyyyssysssss+++  ssooo+++++/+//+/:-</tspan>
+<tspan x="22" y="472">      dhyyyysysssssoso++  sss++o++/++/////-:</tspan>
+<tspan x="22" y="490">      hhyysyysssssoso+++  sso++++++//+////:-</tspan>
+<tspan x="22" y="508">      hhysyssyssossoooossssso+++++/+/////:--</tspan>
+<tspan x="22" y="526">      hyyysssssssoosoo+osoo+++++/++/////:/--</tspan>
+<tspan x="22" y="544">      yhssyssossosooooo++o+++++/+//+//://:-`</tspan>
+<tspan x="22" y="562">      yso+oo+++++/+//+//://:::::::--:-----``</tspan>
+<tspan x="22" y="580"> </tspan>
+</text>
+<text x="410" y="202" xml:space="preserve">
+<tspan class="key" x="410" y="202">luka@localhost</tspan>
+<tspan class="dim" x="410" y="220">————————————————————————————————————————</tspan>
+<tspan class="key" x="410" y="238">Uni</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;TU Wien, Computer Science (BSc)&quot;</tspan>
+<tspan class="key" x="410" y="256">Focus</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;Reverse Engineering, Cryptography, CTFs&quot;</tspan>
+<tspan class="key" x="410" y="274">Langs</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;C, Rust, Python, Java&quot;</tspan>
+<tspan class="key" x="410" y="292">Now</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;Cryptopals&quot;</tspan>
+<tspan class="key" x="410" y="310">Web</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;lukaivanovic.dev&quot;</tspan>
+<tspan class="key" x="410" y="346">PGP</tspan><tspan class="txt">: </tspan><tspan class="val">&quot;8379 6C22 2805 55D2 07C9</tspan>
+<tspan class="txt" x="410" y="364">      </tspan><tspan class="val">D706 5D03 3BBB 6142 1DD9&quot;</tspan>
+</text>
+<rect x="410" y="387" width="26" height="16" fill="#6e7781"/>
+<rect x="438" y="387" width="26" height="16" fill="#cf222e"/>
+<rect x="466" y="387" width="26" height="16" fill="#1a7f37"/>
+<rect x="494" y="387" width="26" height="16" fill="#9a6700"/>
+<rect x="522" y="387" width="26" height="16" fill="#0969da"/>
+<rect x="550" y="387" width="26" height="16" fill="#8250df"/>
+<rect x="578" y="387" width="26" height="16" fill="#1b7c83"/>
+<rect x="606" y="387" width="26" height="16" fill="#d0d7de"/>
+</svg>
